@@ -4,3 +4,11 @@ body {
     font-family: "Lexend", sans-serif;
     font-style: normal;
 }
+
+.skill-icon-img {
+    width: 32px;
+}
+
+.progress {
+    height: 2px;
+}
